@@ -38,6 +38,7 @@
 		494217C61B96073800322A56 /* SwiftTesterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftTesterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		494217CB1B96073800322A56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		494217CC1B96073800322A56 /* SwiftTesterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftTesterTests.swift; sourceTree = "<group>"; };
+		494217D61B96084A00322A56 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +87,7 @@
 				494217BD1B96073800322A56 /* Images.xcassets */,
 				494217BF1B96073800322A56 /* LaunchScreen.xib */,
 				494217B21B96073800322A56 /* Supporting Files */,
+				494217D61B96084A00322A56 /* MyPlayground.playground */,
 			);
 			path = SwiftTester;
 			sourceTree = "<group>";
